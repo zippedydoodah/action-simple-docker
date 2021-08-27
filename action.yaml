@@ -7,7 +7,6 @@ inputs:
     required: true
     default: 'World'
 outputs:
-  docker-test: "hello from docker"
   time: # id of output
     description: 'The time we greeted you'
 runs:
